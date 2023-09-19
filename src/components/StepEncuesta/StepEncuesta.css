@@ -1,0 +1,24 @@
+.step-encuesta-container {
+
+}
+
+.emoji-container {
+    display: flex;
+    justify-content: center;
+    margin: 16px 0;
+}
+
+.emoji-icon {
+    cursor: pointer;
+    color: grey;
+    margin: 0 16px;
+    transition: color 0.3s ease;
+}
+
+.emoji-icon.selected {
+    color: red; 
+}
+
+.step-encuesta-button {
+
+}

@@ -1,0 +1,58 @@
+
+.initial-screen {
+    
+}
+
+
+
+.title {
+    align-self: stretch;
+    color: #0062BC;
+    font-family: Noto Sans;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.subtitle {
+    align-self: stretch;
+    
+    font-family: Noto Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.176px;
+}
+
+.boldText {
+    align-self: stretch;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.198px;
+}
+
+
+.send-requirements-button {
+    background-color: 'white';
+    color: 'white';
+    margin-right: 10px;
+    border-radius: 25px;
+    box-shadow: 0 3px 5px 2px rgba(0, 0, 0, .3);
+    padding: 10px 20px;
+}
+
+.continue-button {
+    border-radius: 25px;
+    box-shadow: 0 3px 5px 2px rgba(0, 0, 0, .3);
+    padding: 10px 20px;
+}
+
+.avatar {
+
+
+}

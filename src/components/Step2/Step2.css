@@ -1,0 +1,22 @@
+.step2-container {
+    
+}
+
+.payment-option {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+.step2-select {
+
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+
+}
